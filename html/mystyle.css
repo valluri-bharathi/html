@@ -1,0 +1,21 @@
+
+body {
+  background-image: url("puppy.jpg");
+  background-repeat:no-repeat;
+   background-position:right;
+  }
+table, th, td {
+  border: 1px solid black;
+  text-align:left;
+  
+}
+th{
+	 background-color: red;
+	 color:white;
+}
+table{
+	border-collapse:collapse;
+	width:100%;
+	border:1px dashed grey;
+}
+
